@@ -1,2 +1,2 @@
 # over-terrain-vehicle-material
-A group project where we built an over terrain vehicle with the intent of giving it material identification and weight sensing capabilities
+This project was completed for a class for the Univeristy of Maryland. The project requirements were to design an over terrain vehicle that was capable of picking up a block, determining the material, and determining the weight class of the block. The block was either made out of plastic or foam, and had side lengths of 110 mm. The block came in three weight classes - light (105 g), medium (190 g), and heavy (275 g).
